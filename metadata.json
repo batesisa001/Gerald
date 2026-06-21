@@ -1,0 +1,8 @@
+{
+  "name": "Gerald's Father's Day",
+  "description": "A simple Father's day greeting featuring Gerald the sea lion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
